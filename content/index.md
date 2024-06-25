@@ -2,7 +2,7 @@
 
 [Back Home](/)
 
-![LOTR image artistmonkeys](https://lotr.fandom.com/wiki/Rivendell?file=614690.jpg)
+![LOTR image artistmonkeys](/images/rivendell.png)
 
 > "I cordially dislike allegory in all its manifestations, and always have done so since I grew old and wary enough to detect its presence.
 > I much prefer history, true or feigned, with its varied applicability to the thought and experience of readers.
